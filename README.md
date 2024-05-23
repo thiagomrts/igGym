@@ -8,9 +8,9 @@
 
 ##
 
-## :rocket: Tecnologias
+## :rocket: Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - React Native
 - Expo
@@ -20,27 +20,27 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - React Hook Form
 - Axios
  
- ## :computer: Projeto
+ ## :computer: Project
 
-O igGym é uma aplicação que gerencia as atividades físicas dos usuários por tipo durante os dias.
+igGym is an application that manages users' physical activities by type during the day.
 
-## :thinking: Como contribuir:
+## :thinking: How to contribute:
 
-- Faça um fork desse repositório;
-- Crie uma branch com a sua feature: git checkout -b minha-feature;
-- Faça commit das suas alterações: git commit -m 'feat: Minha nova feature';
-- Faça push para a sua branch: git push origin minha-feature.
+- Fork this repository;
+- Create a branch with your feature: git checkout -b my-feature;
+- Commit your changes: git commit -m 'feat: My new feature';
+- Push to your branch: git push origin my-feature.
 
-## :thinking: Como iniciar o app:
+## :thinking: How to start the app:
 
-- npm install (dentro da pasta mobile)
+- npm install (inside the mobile folder)
 - npm run start
-- npm install (dentro da pasta api)
-- Entre no arquivo api/src/services/api.ts e modifique o baseURL com o endereço ip do seu expo.
+- npm install (inside the api folder)
+- Enter the api/src/services/api.ts file and modify the baseURL with the IP address of your expo.
 - npm run dev
 
-OBS: necessário ter o emulador Android ou IOS configurado na máquina.
+NOTE: you must have the Android or IOS emulator configured on the machine.
 
-Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+After your pull request is merged, you can delete your branch.
 #
-Feito com :hearts: by thiagomrts :wave:
+Done with :hearts: by thiagomrts :wave:
